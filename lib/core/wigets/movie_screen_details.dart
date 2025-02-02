@@ -153,7 +153,7 @@ class _MovieScreenDetailsState extends State<MovieScreenDetails> {
               ),
             ),
             SectionHeader(title: 'Top Cast'),
-            CustomHorizentalCastScreen(imagePaths: ["assets/images/Ellipse 6.png","assets/images/Ellipse 6-2.png","assets/images/Ellipse 7.png","assets/images/Ellipse 6.png","assets/images/Ellipse 6-2.png"], titles: ['Millie Bobby Brown','Joe Keery','Finn Wolfhard','Millie Bobby Brown','Joe Keery'
+            CustomHorizentalCastScreen(imagePaths: ["assets/images/Ellipse 6.png","assets/images/Ellipse 6-2.png","assets/images/Ellipse 6.png","assets/images/Ellipse 6.png","assets/images/Ellipse 6-2.png"], titles: ['Millie Bobby Brown','Joe Keery','Finn Wolfhard','Millie Bobby Brown','Joe Keery'
             ]),
             SectionHeader(title: 'Recommended For You'),
             HorizontalList(imagePaths: [
