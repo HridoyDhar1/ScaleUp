@@ -31,7 +31,7 @@ class _MovieScreenDetailsState extends State<MovieScreenDetails> {
             Stack(
               children: [
                 Image.asset(
-                  'assets/images/Group 56-2.png',
+                  'assets/images/details.png',
                   height: 250,
                   width: double.infinity,
                   fit: BoxFit.cover,
@@ -128,7 +128,7 @@ class _MovieScreenDetailsState extends State<MovieScreenDetails> {
                   ClipRRect(
                     borderRadius: BorderRadius.circular(12),
                     child: Image.asset(
-                      'assets/images/Group 56-2.png',
+                      'assets/images/details.png',
                       height: 180,
                       width: double.infinity,
                       fit: BoxFit.cover,

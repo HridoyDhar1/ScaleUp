@@ -2,6 +2,7 @@ import 'package:assignment/core/constants/app_colors.dart';
 import 'package:assignment/core/wigets/custom_button.dart';
 import 'package:assignment/core/wigets/custom_text_form_fields.dart';
 import 'package:assignment/feature/auth/presentation/widgets/social_icon.dart';
+import 'package:assignment/feature/home/presentation/screens/home_screen.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -90,7 +91,7 @@ class _SingUpScreenState extends State<SingUpScreen> {
               CustomElevatedButton(
                 buttonName: "Sign Up",
                 onPressed: () {
-                  // Add your sign-up logic here
+                Get.toNamed(HomeScrren.name);
                 },
               ),
               const SizedBox(height: 20),

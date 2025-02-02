@@ -1,7 +1,7 @@
 import 'package:assignment/core/wigets/custom_button.dart';
 import 'package:assignment/core/wigets/custom_navigation.dart';
 import 'package:assignment/feature/auth/presentation/widgets/payment_card.dart';
-import 'package:assignment/feature/home/presentation/screens/home_screen.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

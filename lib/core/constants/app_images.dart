@@ -15,6 +15,6 @@ class AssetImages {
   static const String recommendedImageFour = "assets/images/Group 56.png";
   static const String recommendedImageFive = "assets/images/Group 107-2.png";
   // Continue images
-static const String continueImageOne="assets/images/Group 109.png";
-static const String continueImageTwo="assets/images/Group 107.png";
+static const String continueImageOne="assets/images/Group 106-2.png";
+static const String continueImageTwo="assets/images/Group 109.png";
 }

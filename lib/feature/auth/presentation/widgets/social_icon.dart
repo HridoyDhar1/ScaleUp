@@ -10,7 +10,7 @@ class SocialIcons extends StatelessWidget {
       children: [
         socialIcon('assets/icons/facebook.png'),
         const SizedBox(width: 20),
-        socialIcon('assets/icons/google-symbol.png'),
+        socialIcon('assets/icons/google.png'),
         const SizedBox(width: 20),
         socialIcon('assets/icons/twitter.png'), // Replace with your actual asset
       ],
